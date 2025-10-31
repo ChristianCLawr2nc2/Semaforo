@@ -93,6 +93,9 @@ O projeto é composto por uma **classe principal** chamada `TrafficLight`, respo
 
 ---
 
+Vídeo:
+https://drive.google.com/drive/u/1/folders/1zckFXhM1T5n-AGcHhKmX7YNPgIxB3Q1s
+
 ## 💡 Código Completo
 
 ```cpp
