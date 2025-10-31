@@ -94,7 +94,7 @@ O projeto é composto por uma **classe principal** chamada `TrafficLight`, respo
 ---
 
 Vídeo:
-https://drive.google.com/drive/u/1/folders/1zckFXhM1T5n-AGcHhKmX7YNPgIxB3Q1s
+[https://drive.google.com/drive/u/1/folders/1zckFXhM1T5n-AGcHhKmX7YNPgIxB3Q1s](https://drive.google.com/file/d/1lNyWQooqpkGKG0lRdCiHWVIPOtKA8ig6/view?usp=drive_link)
 
 ## 💡 Código Completo
 
